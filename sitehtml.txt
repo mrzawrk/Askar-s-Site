@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Official website of Askar Mirza – Commissioner of Parks and Public Property in Ridgefield Park, NJ.">
+    <meta name="author" content="Askar Mirza">
+    <title>Askar Mirza | Official Site</title>
+    
+    <!-- Schema.org Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Askar Mirza",
+        "url": "https://www.askarmirza.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Commissioner_Askar_Mirza.jpg",
+        "jobTitle": "Commissioner of Parks and Public Property",
+        "affiliation": "Village of Ridgefield Park",
+        "alumniOf": ["Bergen Community College", "Rutgers University"],
+        "sameAs": [
+            "https://twitter.com/AskarMirzaNJ",
+            "https://www.linkedin.com/in/askarmirza",
+            "https://www.instagram.com/askarmirzanj",
+            "https://www.facebook.com/AskarMirzaNJ"
+        ]
+    }
+    </script>
+    
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; color: #333; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f4; }
+        .container { max-width: 900px; margin: 20px auto; background: #fff; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        header { text-align: center; padding-bottom: 20px; border-bottom: 1px solid #ddd; }
+        header img { border-radius: 50%; }
+        h1 { color: #2c3e50; margin-top: 0; }
+        h2 { color: #2c3e50; margin-top: 40px; }
+        p { font-size: 18px; margin: 10px 0; }
+        .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px; }
+        .links a { color: #fff; background: #0073e6; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: background 0.3s; }
+        .links a:hover { background: #005bb5; }
+        .news-article { margin-bottom: 20px; }
+        .news-article h3 { margin: 0; }
+        .news-article p { margin: 5px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Commissioner_Askar_Mirza.jpg" alt="Askar Mirza" width="150">
+            <h1>Askar Mirza</h1>
+            <p>Commissioner of Parks and Public Property</p>
+            <p>Ridgefield Park, New Jersey</p>
+        </header>
+        
+        <section>
+            <h2>About Me</h2>
+            <p>At 19, I embarked on a journey to serve my community, becoming one of the youngest elected officials in New Jersey. As Commissioner of Parks and Public Property in Ridgefield Park, I am committed to enhancing our public spaces and fostering community engagement. My academic pursuits in political science at Bergen Community College and Rutgers University have equipped me with the knowledge and skills to drive meaningful change.</p>
+            <p>In addition to my role as Commissioner, I serve on the New Jersey Department of Children and Families Youth Council, advising on improving DCF programs and encouraging youth participation in decisions affecting children and families. I have also interned with the United States Agency for International Development (USAID) and the District 37 Legislative Office, and worked on several political campaigns in and around Bergen County.</p>
+        </section>
+        
+        <section>
+            <h2>Connect with Me</h2>
+            <div class="links">
+                <a href="https://twitter.com/AskarMirzaNJ" target="_blank">Twitter</a>
+                <a href="https://www.linkedin.com/in/askarmirza" target="_blank">LinkedIn</a>
+                <a href="https://www.instagram.com/askarmirzanj" target="_blank">Instagram</a>
+                <a href="https://www.facebook.com/AskarMirzaNJ" target="_blank">Facebook</a>
+                <a href="mailto:me@askarmirza.com">Email Me</a>
+            </div>
+        </section>
+        
+        <section>
+            <h2>In the News</h2>
+            <div class="news-article">
+                <h3><a href="https://bergen.edu/posts/spotlight/askar-mirza/" target="_blank">Askar Mirza Spotlight</a></h3>
+                <p>April 17, 2023</p>
+                <p>Bergen Community College alumnus Askar Mirza, ’24, majored in political science to pursue a career in government service. He is now a member of the statewide Youth Council for the Department of Children and Families and serves as an intern at USAID.</p>
+            </div>
+            <div class="news-article">
+                <h3><a href="https://en.wikipedia.org/wiki/Draft:Askar_Mirza_(New_Jersey_politician)" target="_blank">Askar Mirza Elected as Commissioner</a></h3>
+                <p>May 28, 2024</p>
+                <p>Askar Mirza was sworn in as Commissioner of Parks and Public Property in Ridgefield Park, New Jersey, after securing a two-vote victory against incumbent Commissioner Mark Olson. This victory made him the youngest elected official in Ridgefield Park’s history.</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
